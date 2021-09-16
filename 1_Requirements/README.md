@@ -2,20 +2,20 @@
 Whether it's too hot or too cold outside, we want the climate in the car to be exactly how we like it. So adjusting the temperature is often one of the first things we do when we get into a vehicle. This project Heat control system is built using atmega328 microcontroller, USART to display, ADC to covert analog to digital value. It controls the temperature by transferring suitable heat to the car whe the passenger is seated.
 ## SWOT- Strengths, and Weakness, Opportunities Threats
 ### Strengths
-- Control Temperature.
-- Efficiency
-- User Friendly
-- Regulate your heating
+-  Control Temperature.
+-  Efficiency
+-  User Friendly
+-  Regulate your heating
 
 ### Weakness
-- Low sensitivity.
-- Overheating.
+-  Low sensitivity.
+-  Overheating.
 
 ### Opportunities
-- Use different sensor and microcontroller
+-  Use different sensor and microcontroller
 
 ### Threats
-- Unusable in the places where the temperature is extreme hot.
+-  Unusable in the places where the temperature is extreme hot.
 
 
 ## 4W's and 1'H
