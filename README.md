@@ -20,6 +20,7 @@ The primary goal of Heat control system is to provide passenger comfort in as qu
 ## Git Codacy Badge
 
 
+[![Codacy Badge](https://api.codacy.com/project/badge/Grade/fb58dc6dbc11456593de58d37faf38c5)](https://app.codacy.com/gh/Sushma-B-Hosamani/Stepin_CaseStudy?utm_source=github.com&utm_medium=referral&utm_content=Sushma-B-Hosamani/Stepin_CaseStudy&utm_campaign=Badge_Grade_Settings)
 [![Cppcheck](https://github.com/Sushma-B-Hosamani/Stepin_CaseStudy/actions/workflows/CodeQuality.yml/badge.svg)](https://github.com/Sushma-B-Hosamani/Stepin_CaseStudy/actions/workflows/CodeQuality.yml)
 
 [![Compile-Linux](https://github.com/Sushma-B-Hosamani/Stepin_CaseStudy/actions/workflows/compile.yml/badge.svg)](https://github.com/Sushma-B-Hosamani/Stepin_CaseStudy/actions/workflows/compile.yml)
