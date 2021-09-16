@@ -9,8 +9,8 @@ The primary goal of Heat control system is to provide passenger comfort in as qu
 | `1_Requirements`   | Documents detailing requirements and research|
 | `2_Architectures`         | Documents specifying design details|
 | `3_Implementation` | All code and documentation|
-| `4_Test_plan`      | Documents with test plans and procedures|
-| `5_Simulations`      | SimulIDE simulation file|
+| `4_Simulations`      | SimulIDE simulation file|
+| `5_Test_plan`      | Documents with test plans and procedures|
 | `6_ImagesAndVideos`      | Simulation Images and Videos|
 
 ## Code Inspector Badges
