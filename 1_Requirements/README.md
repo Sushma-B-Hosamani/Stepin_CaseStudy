@@ -1,0 +1,46 @@
+## Introduction
+Whether it's too hot or too cold outside, we want the climate in the car to be exactly how we like it. So adjusting the temperature is often one of the first things we do when we get into a vehicle. This project Heat control system is built using atmega328 microcontroller, USART to display, ADC to covert analog to digital value.
+## SWOT- Strengths, and Weakness, Opportunities Threats
+### Strengths
+- Control Temperature.
+- Efficiency
+- User Friendly
+- Regulate your heating
+
+### Weakness
+- Low sensitivity.
+- Overheating.
+
+### Opportunities
+- Use different sensor and microcontroller
+
+### Threats
+- Unusable in the places where the temperature is extreme hot.
+
+
+## 4W's and 1'H
+### **WHO** : Car 
+### **WHAT** : Heat Monitoring System
+### **WHERE** : To check the temperature and to set temperature appropriately.
+### **WHEN** : In the cold places.
+### **HOW** : Setting the temperature manually become tedious.
+
+
+## Detail requirements
+### High Level Requirements
+| High Level Requirements      | Description |
+| ----------- | ----------- |
+| HLR1      | Microcontroller   |
+| HLR2   | Temperature Sensor|
+| HLR3   | Display|
+| HLR4   | Software used|
+
+### Low Level Requirements
+| Low Level Requirements      | Description |
+| ----------- | ----------- |
+| HLR1_LLR1      | ATmega328     |
+| HLR2_LLR1   | ADC with PWM-fast|
+| HLR3_LLR1   |USART and LED|
+| HLR4_LLR1   | Code Blocks and VS code |
+| HLR4_LLR2   | SimulIDE |
+
