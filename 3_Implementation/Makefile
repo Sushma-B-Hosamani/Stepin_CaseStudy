@@ -6,7 +6,8 @@ BUILD_DIR = Build
 SRC = project_main.c\
 src/Act1.c\
 src/Act2.c\
-src/Act3.c
+src/Act3.c\
+src/Act4.c
 
 # All header file paths
 INC = -I inc
