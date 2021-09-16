@@ -21,3 +21,5 @@ The primary goal of Heat control system is to provide passenger comfort in as qu
 
 
 [![Cppcheck](https://github.com/Sushma-B-Hosamani/Stepin_CaseStudy/actions/workflows/CodeQuality.yml/badge.svg)](https://github.com/Sushma-B-Hosamani/Stepin_CaseStudy/actions/workflows/CodeQuality.yml)
+
+[![Compile-Linux](https://github.com/Sushma-B-Hosamani/Stepin_CaseStudy/actions/workflows/compile.yml/badge.svg)](https://github.com/Sushma-B-Hosamani/Stepin_CaseStudy/actions/workflows/compile.yml)
