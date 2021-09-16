@@ -9,8 +9,9 @@
  * 
  */
 
-
+#ifndef _ACTIVITY1_H
 #define _ACTIVITY1_H
+
 
 #define AVR_ATmega328
 #include <avr/io.h>
@@ -43,5 +44,6 @@ void Buttons_LED_Init();
 
 
 #endif //ACT1_H_INCLUDED
+
 
 
